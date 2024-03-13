@@ -155,6 +155,9 @@ For PostgreSQL data types, see the https://www.postgresql.org/docs/current/datat
 |`char`
 |`VARCHAR`
 
+|`character`
+|`VARCHAR`
+
 |`bpchar`
 |`VARCHAR`
 
